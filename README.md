@@ -3,7 +3,7 @@
 I am a full-stack engineer who leans more on web development.
 I specialize in React, Next, Vue.js, Angular, TypeScript, Javascript, Node.js, Express.js, Laravel, WordPress, Python, 
 MongoDB, MySQL, PostgreSQL, GraphQL, Redux, Rest API, React Native,iOS, Android, Swift, Java, AWS, and so on.<br/>
-My most recent experience comes from freelance/contract jobs on Upwork/Freelancer as a senior engineer who steps in to help companies that need urgent development resources.
+My most recent experience comes from freelance/contract jobs on Upwork/Toptal/Fiverr/Freelancer as a senior engineer who steps in to help companies that need urgent development resources.
 
 • Developed innovative and user-friendly web applications using the MERN / MEAN stack.<br/>
 • Developed and maintained high-quality, cross-platform mobile applications using React Native.<br/>
