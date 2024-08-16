@@ -7,7 +7,8 @@ My most recent experience comes from freelance/contract jobs on Upwork/Freelance
 
 • Developed innovative and user-friendly web applications using the MERN / MEAN stack.
 • Developed and maintained high-quality, cross-platform mobile applications using React Native.
-• Completed numerous projects, from simple Wordpress blogs to complex e-commerce platforms, always delivering high-quality, scalable solutions that meet my clients needs.
+• Completed numerous projects, from simple Wordpress blogs to complex e-commerce platforms, always delivering 
+high-quality, scalable solutions that meet my clients needs.
 • Collaborated with designers to create pixel-perfect UI and UX experiences.
 • Integrated RESTful APIs and backend services to connect apps to data sources.
 • Optimized application performance by analyzing and addressing memory and CPU bottlenecks.
